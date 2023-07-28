@@ -28,7 +28,6 @@
     "prettier": "prettier --write \"{src,tests,example/src}/**/*.{js,ts,jsx,tsx}\""
   },
   "keywords": [
-    "pdf",
     "react",
     "typescript"
   ],
